@@ -9,7 +9,7 @@ const Banner = () => {
                     Delicious
                 </Text>
                 <Title>
-                   Today's Menu
+                   Today&apos;s Menu
                 </Title>
             </Container>
         </Wrapper>
